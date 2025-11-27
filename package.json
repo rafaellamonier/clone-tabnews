@@ -4,7 +4,8 @@
 	"description": "Clone do tab news para aprender a criar um projeto do zero. Do curso.dev do Filipe Dechamps.",
 	"main": "index.js",
 	"scripts": {
-		"dev": "next dev"
+		"dev": "next dev",
+		"build": "next build"
 	},
 	"author": "",
 	"license": "MIT",
