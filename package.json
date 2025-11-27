@@ -1,0 +1,16 @@
+{
+	"name": "clone-tabnews",
+	"version": "1.0.0",
+	"description": "Clone do tab news para aprender a criar um projeto do zero. Do curso.dev do Filipe Dechamps.",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"next": "^13.1.6",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
